@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/ksaetern6/HelloWorld.svg?branch=master)](https://travis-ci.com/ksaetern6/HelloWorld)
+
 Hello World example
 ===================
 This is a general Hello World example to get a standard program on a linux machine like Raspberry Pi.
